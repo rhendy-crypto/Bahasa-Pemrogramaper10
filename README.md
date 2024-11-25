@@ -43,5 +43,11 @@ Program dibuat dengan menggunakan Dictionary
 • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 
 Buat flowchart dan penjelasan programnya pada README.md.
-Commit dan push repository ke github.s Praktikum
+Commit dan push repository ke github.
 ```
+
+## Profgramnya
+![WhatsApp Image 2024-11-26 at 00 57 52_5baff2e5](https://github.com/user-attachments/assets/0c805be0-d7a3-4862-a6a6-05a01eae9752)
+
+![WhatsApp Image 2024-11-26 at 01 06 56_73e61270](https://github.com/user-attachments/assets/1773fa3a-3167-4e24-ae8d-9f3827e0f22c)
+
