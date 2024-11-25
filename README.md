@@ -1,4 +1,4 @@
-# Praktikum 5
+# Praktikum 6
 ## Latihan 1
 ```Buat Dictionary daftar kontak Nama sebagai key, dan nomor sebagai value
 Nama Nomor Telpon
