@@ -51,3 +51,5 @@ Commit dan push repository ke github.
 
 ![WhatsApp Image 2024-11-26 at 01 06 56_73e61270](https://github.com/user-attachments/assets/1773fa3a-3167-4e24-ae8d-9f3827e0f22c)
 
+## Berikut Flowchartnya
+![WhatsApp Image 2024-11-26 at 01 45 27_ff6e9976](https://github.com/user-attachments/assets/7da4b89f-713e-4f34-ae85-d01beb1bf411)
