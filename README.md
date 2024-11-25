@@ -30,4 +30,7 @@ Hapus kontak Dina.
 7. Menampilkan Semua Nomor: Kita menggunakan kontak.values() untuk mendapatkan semua nilai (nomor) dan kemudian melakukan perulangan.
 8. Menampilkan Daftar Lengkap: Kita menggunakan kontak.items() untuk mendapatkan pasangan key-value dan kemudian mencetaknya dalam format yang lebih mudah dibaca.
 9. Menghapus Kontak: Kita menggunakan del untuk menghapus kontak Dina berdasarkan key-nya.
+
+Hasil:
+Program akan menampilkan output sesuai dengan instruksi yang saya berikan.
 ```
